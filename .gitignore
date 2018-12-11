@@ -1,0 +1,8 @@
+# MAC 
+.DS_Store
+
+# workspace
+.vscode/
+
+# output
+out.png
