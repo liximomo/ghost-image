@@ -65,7 +65,7 @@ def make_semi_transparent(image, begin_with_transparent, meltToBlack):
                         243,
                         243,
                         243,
-                        scale_pixel(gray, [0, 255])
+                        scale_pixel(gray, [60, 255])
                     )
 
         begin_with_transparent = not begin_with_transparent
